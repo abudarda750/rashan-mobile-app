@@ -1,0 +1,3 @@
+export const SET_USER = 'SET_USER';
+export const SET_USERS_PROCESSING = 'SET_USER_PROCESSING';
+export const SET_USERS_ERROR= 'SET_USER_ERROR';
